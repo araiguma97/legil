@@ -5,9 +5,9 @@ import geoip2.database
 
 class AccessLogAnalyzer:
   # パス
-  log_path           = '/home/sarai/legil/access_log'
-  geoip_db_path      = '/home/sarai/legil/GeoLite2-Country_20201229/GeoLite2-Country.mmdb'
-  csv_path           = '/home/sarai/legil/access_log.csv'
+  log_path           = '/home/araiguma97/legil/access_log'
+  geoip_db_path      = '/home/araiguma97/legil/GeoLite2-Country_20201229/GeoLite2-Country.mmdb'
+  csv_path           = '/home/araiguma97/legil/access_log.csv'
 
   # 変数
   all_access_num = 0
